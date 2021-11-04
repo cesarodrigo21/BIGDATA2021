@@ -1,8 +1,8 @@
-# MINERA DE DATOS Y BIGDATA
 
 - **Universidad Nacional de San Antonio Abad del Cusco**
 - **Escuela Profesional de Ingenieria Informatica y de Sistemas**
 - **Curso:  MINERA DE DATOS Y BIGDATA**
+- **Semestre: 2021-II**
 
 ## Alumno: 
 
