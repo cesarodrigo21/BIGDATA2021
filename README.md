@@ -4,7 +4,8 @@
 - **Escuela Profesional de Ingenieria Informatica y de Sistemas**
 - **Curso:  MINERA DE DATOS Y BIGDATA**
 
-#### Alumno:
+## Alumno: 
+
 - **Cesar Rodrigo Ttito Quilca** - [Cesarodrigo21](https://github.com/cesarodrigo21).
 
 ## Descripción 
