@@ -1,1 +1,7 @@
 Resolucion del laboratorio 01 de pyspark del curso de mineria de datos
+
+* Realizado en google colab: https://research.google.com/colaboratory/
+
+instalar en el google colab: !pip install pyspark==3.0.1 py4j==0.10.9
+
+y podras trabajar el pyspark en el google coloboraty
