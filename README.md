@@ -23,5 +23,6 @@ de imágenes, separación de regiones, reconocimiento de formas y estimación de
 
 ## Segunda parcial
 -[ACTIVIDAD 04 PREPROCESAMIENTO](https://github.com/cesarodrigo21/BIGDATA2021/tree/main/ACTIVIDAD04_PREPROCESAMIENTO).
+
 -[ACTIVIDAD 05 PRACTICA GUIADA](https://github.com/cesarodrigo21/BIGDATA2021/tree/main/ACTIVIDAD05_PRACTICA%20GUIADA). 
 
