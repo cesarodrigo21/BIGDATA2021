@@ -27,3 +27,4 @@ de imágenes, separación de regiones, reconocimiento de formas y estimación de
 
 ## Tercera Parcial
 - [ACTIVIDAD 06 LAB02 REGRESION LINEAL](https://github.com/cesarodrigo21/BIGDATA2021/tree/main/ACTIVIDAD06_LAB02_REGRESION_LINEAL).
+- [ACTIVIDAD 07 LAB04 K-MEANS](https://github.com/cesarodrigo21/BIGDATA2021/tree/main/ACTIVIDAD07_LAB04_K-MEANS).
