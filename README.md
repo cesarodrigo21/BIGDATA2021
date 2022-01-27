@@ -25,3 +25,5 @@ de imágenes, separación de regiones, reconocimiento de formas y estimación de
 - [ACTIVIDAD 04 PREPROCESAMIENTO](https://github.com/cesarodrigo21/BIGDATA2021/tree/main/ACTIVIDAD04_PREPROCESAMIENTO).
 - [ACTIVIDAD 05 PRACTICA GUIADA](https://github.com/cesarodrigo21/BIGDATA2021/tree/main/ACTIVIDAD05_PRACTICA%20GUIADA). 
 
+## Tercera Parcial
+- [ACTIVIDAD 06 LAB02 REGRESION LINEAL](https://github.com/cesarodrigo21/BIGDATA2021/tree/main/ACTIVIDAD06_LAB02_REGRESION_LINEAL).
