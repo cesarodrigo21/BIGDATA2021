@@ -26,5 +26,7 @@ de imágenes, separación de regiones, reconocimiento de formas y estimación de
 - [ACTIVIDAD 05 PRACTICA GUIADA](https://github.com/cesarodrigo21/BIGDATA2021/tree/main/ACTIVIDAD05_PRACTICA%20GUIADA). 
 
 ## Tercera Parcial
-- [ACTIVIDAD 06 LAB02 REGRESION LINEAL](https://github.com/cesarodrigo21/BIGDATA2021/tree/main/ACTIVIDAD06_LAB02_REGRESION_LINEAL).
-- [ACTIVIDAD 07 LAB04 K-MEANS](https://github.com/cesarodrigo21/BIGDATA2021/tree/main/ACTIVIDAD07_LAB04_K-MEANS).
+- [ACTIVIDAD 06 LAB02 REGRESION LINEAL](https://github.com/cesarodrigo21/BIGDATA2021/blob/main/ACTIVIDAD06_LAB02_REGRESION_LINEAL/Resolucion_Lab02.ipynb).
+- [ACTIVIDAD 07 LAB04 K-MEANS](https://github.com/cesarodrigo21/BIGDATA2021/blob/main/ACTIVIDAD07_LAB04_K-MEANS/Resolucion_Lab04.ipynb).
+- [ACTIVIDAD 08 LAB_PCA](https://github.com/cesarodrigo21/BIGDATA2021/blob/main/ACTIVIDAD08_LAB_PCA/Resolucion_LabPCA.ipynb).
+
