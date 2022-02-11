@@ -33,11 +33,11 @@ de imágenes, separación de regiones, reconocimiento de formas y estimación de
 
 ## Proyecto Final Perceptron Monocapa
 Integrantes:
-●	CHOQUE SARMIENTO LEIDY DIANA
-●	ESCOBEDO MESCCO ANGIE
-●	ROJAS CAHUANA ETSON RONALDAO		
-●	TTITO QUILCA CESAR RODRIGO
-●	TTITO SAYA ALEXANDER
+- [CHOQUE SARMIENTO LEIDY DIANA]
+- [ESCOBEDO MESCCO ANGIE]
+- [ROJAS CAHUANA ETSON RONALDAO]		
+- [TTITO QUILCA CESAR RODRIGO]
+- [TTITO SAYA ALEXANDER]
 
 - [Informe del proyecto final](https://github.com/cesarodrigo21/BIGDATA2021/blob/main/PROYECTO_FINAL/Mineria%20de%20datos%20bigdata.pdf).
 - [Programa del Proyecto final](https://github.com/cesarodrigo21/BIGDATA2021/blob/main/PROYECTO_FINAL/PERCEPTRON_MONOCAPA_PYSPARK.ipynb).
